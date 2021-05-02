@@ -14,11 +14,13 @@ activate
 (auth) C:\folder_name> pip install flask flask-sqlalchemy flask-login
 (auth) C:\folder_name> mkdir project
 (auth) C:\folder_name> cd project
+```
 
 You have all files in this repo So you don't need to run following example commands 
 These are only for demonstration purposes 
 How to create an empty file with desired extension in windows
 
+```sh
 for *.py files
 (auth) C:\folder_name\project> type nul > __init__.py
 (auth) C:\folder_name\project> type nul > main.py
