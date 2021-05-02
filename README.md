@@ -10,6 +10,26 @@ cd folder_name
 python -m venv auth
 cd auth\Scripts
 activate
+
+You have all files in this repo So you don't need to run following example commands 
+These are only for demonstration purposes 
+How to create an empty file with desired extension in windows
+(auth) C:\Users\your_name\Desktop\folder_name> pip install flask flask-sqlalchemy flask-login
+(auth) C:\Users\your_name\Desktop\folder_name> mkdir project
+(auth) C:\Users\your_name\Desktop\folder_name> cd project
+(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > __init__.py
+(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > main.py
+(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > auth.py
+(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > models.py
+(auth) C:\Users\your_name\Desktop\folder_name> mkdir templates
+(auth) C:\Users\your_name\Desktop\folder_name> cd templates
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > base.html
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > index.html
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > login.html
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > profile.html
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > login.html
+(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > signup.html
+
 ```
 
 - [Unix] - For Unix users
