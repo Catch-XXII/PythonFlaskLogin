@@ -23,10 +23,11 @@ auth/bin/activate
 
 ## Before you run flask don't forget to set 
 ```sh
+for windows users
 set FLASK_APP = project
 set FLASK_DEBUG = 1
 
-for unix systems
+for unix users
 export FLASK_APP = project
 export FLASK_DEBUG = 1
 ```
