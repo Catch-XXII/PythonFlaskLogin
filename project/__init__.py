@@ -1,13 +1,14 @@
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
 from flask import Flask
+from secret_generator import skg
 
 db = SQLAlchemy()
 
 
 def create_app():
     app = Flask(__name__)
-    app.config['SECRET_KEY'] = 'here will be your secret key'
+    app.config['SECRET_KEY'] = skg
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
 
     db.init_app(app)
