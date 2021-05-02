@@ -74,3 +74,9 @@ db.create_all(app=create_app())
 
 ![image](https://user-images.githubusercontent.com/24410504/116811212-b78aea80-ab50-11eb-9c99-f6495e77bc60.png)
 
+
+## License
+
+MIT
+
+**Free Software**
