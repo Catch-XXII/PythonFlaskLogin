@@ -1,6 +1,6 @@
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
-from secret_generator import skg
+from .secret_generator import skg
 from flask import Flask
 
 
