@@ -8,7 +8,9 @@
 mkdir folder_name
 cd folder_name
 python -m venv auth
-- Activate venv with following code
+cd auth
+cd Scripts
+activate
 ```
 
 
