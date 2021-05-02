@@ -8,8 +8,7 @@
 mkdir folder_name
 cd folder_name
 python -m venv auth
-cd auth
-cd Scripts
+cd auth\Scripts
 activate
 ```
 
