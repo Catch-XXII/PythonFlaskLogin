@@ -18,12 +18,12 @@ source auth/bin/activate
 do not forget to set FLASK_APP and FLASK_DEBUG 
 
 ###### For 'Windows' users
-set FLASK_APP=project
-set FLASK_DEBUG=1
+<p> set FLASK_APP=project </p>
+<p> set FLASK_DEBUG=1 </p>
 
 ###### For 'Unix' systems
-export FLASK_APP=project
-export FLASK_DEBUG=1
+<p> export FLASK_APP=project </p>
+<p> export FLASK_DEBUG=1 </p>
 
 now you can run 
 ```flask run```
