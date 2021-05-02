@@ -13,6 +13,14 @@ cd Scripts
 activate
 ```
 
+- [Unix] - For Unix users
+```sh
+mkdir folder_name
+cd folder_name
+python -m venv auth
+auth/bin/activate
+```
+
 
 ![image](https://user-images.githubusercontent.com/24410504/116811212-b78aea80-ab50-11eb-9c99-f6495e77bc60.png)
 
