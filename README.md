@@ -14,14 +14,14 @@ C:\Users\your_name\Desktop\project_folder\auth\Scripts> only then activate
 For 'Unix' system
 source auth/bin/activate
 
-Before you run Flask with 'flask run' command
+###### Before you run Flask with 'flask run' command
 do not forget to set FLASK_APP and FLASK_DEBUG 
 
-For 'Windows' users
+###### For 'Windows' users
 set FLASK_APP=project
 set FLASK_DEBUG=1
 
-For 'Unix' systems
+###### For 'Unix' systems
 export FLASK_APP=project
 export FLASK_DEBUG=1
 
