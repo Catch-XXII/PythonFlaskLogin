@@ -25,5 +25,5 @@ do not forget to set FLASK_APP and FLASK_DEBUG
 <p> export FLASK_APP=project </p>
 <p> export FLASK_DEBUG=1 </p>
 
-<p> now you can run </p>
+now you can run
 ```flask run```
