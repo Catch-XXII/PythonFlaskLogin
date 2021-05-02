@@ -20,6 +20,12 @@ cd folder_name
 python -m venv auth
 auth/bin/activate
 ```
+## Configuring the Database
+
+```python
+from project import db, create_app()
+db.create_all(app=create_app())
+```
 
 
 ![image](https://user-images.githubusercontent.com/24410504/116811212-b78aea80-ab50-11eb-9c99-f6495e77bc60.png)
