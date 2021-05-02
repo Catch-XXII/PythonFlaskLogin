@@ -45,19 +45,21 @@ before you run flask don't forget to set FLASK_APP and FLASK_DEBUG
 
 - [Unix] - For Unix users
 ```sh
-mkdir folder_name
-cd folder_name
-python -m venv auth
-auth/bin/activate
-export FLASK_APP = project
-export FLASK_DEBUG = 1
-flask run
+$ mkdir folder_name
+$ cd folder_name
+$ python -m venv auth
+$ source auth/bin/activate
+(auth)$ export FLASK_APP = project
+(auth)$ export FLASK_DEBUG = 1
+(auth)$ flask run
 ```
 
 
 ## Flask run 
 ```sh
-http://127.0.0.1:5000/
+* Debugger is active!
+* Debugger PIN: SOMETHING
+Running on http://127.0.0.1:5000/
 ```
 
 
