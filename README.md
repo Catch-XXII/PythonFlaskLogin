@@ -20,7 +20,18 @@ cd folder_name
 python -m venv auth
 auth/bin/activate
 ```
-## Flask run
+
+## Before you run flask don't forget to set 
+```sh
+set FLASK_APP = project
+set FLASK_DEBUG = 1
+
+for unix systems
+export FLASK_APP = project
+export FLASK_DEBUG = 1
+```
+
+## Flask run 
 ```sh
 http://127.0.0.1:5000/
 ```
