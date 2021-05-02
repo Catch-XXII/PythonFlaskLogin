@@ -1,7 +1,8 @@
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
-from flask import Flask
 from secret_generator import skg
+from flask import Flask
+
 
 db = SQLAlchemy()
 
