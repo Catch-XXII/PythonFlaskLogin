@@ -21,9 +21,10 @@ python -m venv auth
 auth/bin/activate
 ```
 ## Configuring the Database
-
+- [REPL] - tell Flask-SQLAlchemy to create database in the Python-REPL
+- Make sure that you have stopped the application and you are still in the virtual environment and in the current project folder not in the venv folder 
 ```python
-from project import db, create_app()
+from project import db, create_app
 db.create_all(app=create_app())
 ```
 
