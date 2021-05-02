@@ -27,3 +27,6 @@ do not forget to set FLASK_APP and FLASK_DEBUG
 
 now you can run
 ```flask run```
+
+![image](https://user-images.githubusercontent.com/24410504/116811212-b78aea80-ab50-11eb-9c99-f6495e77bc60.png)
+
