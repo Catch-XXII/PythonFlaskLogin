@@ -7,17 +7,17 @@ cd [any_folder_name]
 install virtual env with following python code
 python -m venv auth # [auth] can be any name which you desire
 
-For Windows users activate venv with following code
+**For Windows users activate venv with following code**
 Go through cd auth\Scripts\ then run activate
 C:\Users\your_name\Desktop\project_folder\auth\Scripts> only then activate
 
-For unix system
+**For unix system**
 source auth/bin/activate
 
-Before you run Flask with 'flask run' command
-do not forget to set FLASK_APP and FLASK_DEBUG 
+######Before you run Flask with 'flask run' command
+######do not forget to set FLASK_APP and FLASK_DEBUG 
 
-For Windows users 
+**For Windows users** 
 set FLASK_APP=project
 set FLASK_DEBUG=1
 
