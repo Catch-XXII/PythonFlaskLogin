@@ -3,6 +3,7 @@
 ## Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing
 
 - [Windows] - For Windows users
+Open your cmd and run these commands.
 
 ```sh
 mkdir folder_name
@@ -44,6 +45,8 @@ before you run flask don't forget to set FLASK_APP and FLASK_DEBUG
 ```
 
 - [Unix] - For Unix users
+Open your Terminal and run these commands.
+
 ```sh
 $ mkdir folder_name
 $ cd folder_name
