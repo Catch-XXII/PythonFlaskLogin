@@ -7,11 +7,11 @@ Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashi
 install virtual env with following command line
 ```python -m venv auth```  <blockquote> [auth] can be any name which you desire </blockquote>
 
-<p> For 'Windows' users activate venv with following code </p>
+###### For 'Windows' users activate venv with following code
 <p> Go through cd auth\Scripts\ then run activate </p>
 <p> C:\Users\your_name\Desktop\project_folder\auth\Scripts> only then activate </p>
 
-For 'Unix' system
+###### For 'Unix' system
 source auth/bin/activate
 
 ###### Before you run Flask with 'flask run' command
