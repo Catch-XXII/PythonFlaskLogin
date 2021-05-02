@@ -1,6 +1,6 @@
 # PythonFlaskLogin
 
-## Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing
+## _Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing
 
 - [Windows] - For Windows users
 Open your cmd and run these commands.
