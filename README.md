@@ -2,6 +2,8 @@
 
 ## Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing
 
+- [Windows] - For Windows users
+
 ```sh
 mkdir folder_name
 cd folder_name
