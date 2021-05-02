@@ -33,7 +33,13 @@ for *.html files
 (auth) C:\folder_name\project\templates> type nul > login.html
 (auth) C:\folder_name\project\templates> type nul > profile.html
 (auth) C:\folder_name\project\templates> type nul > signup.html
+```
 
+```sh
+then return back to folder_name
+before you run flask don't forget to set FLASK_APP and FLASK_DEBUG
+(auth) C:\folder_name> set FLASK_APP=project
+(auth) C:\folder_name> set FLASK_DEBUG=1
 ```
 
 - [Unix] - For Unix users
