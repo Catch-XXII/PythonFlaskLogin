@@ -1,8 +1,8 @@
 # PythonFlaskLogin
 Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing
 
-mkdir any_folder_name
-cd any_folder_name
+<p> mkdir [any_folder_name] </p>
+<p> cd [any_folder_name] </p>
 
 install virtual env with following python code
 python -m venv auth # [auth] can be any name which you desire
