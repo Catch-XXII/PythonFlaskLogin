@@ -14,21 +14,25 @@ activate
 You have all files in this repo So you don't need to run following example commands 
 These are only for demonstration purposes 
 How to create an empty file with desired extension in windows
-(auth) C:\Users\your_name\Desktop\folder_name> pip install flask flask-sqlalchemy flask-login
-(auth) C:\Users\your_name\Desktop\folder_name> mkdir project
-(auth) C:\Users\your_name\Desktop\folder_name> cd project
-(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > __init__.py
-(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > main.py
-(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > auth.py
-(auth) C:\Users\your_name\Desktop\folder_name\project> type nul > models.py
-(auth) C:\Users\your_name\Desktop\folder_name> mkdir templates
-(auth) C:\Users\your_name\Desktop\folder_name> cd templates
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > base.html
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > index.html
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > login.html
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > profile.html
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > login.html
-(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > signup.html
+(auth) C:\folder_name> pip install flask flask-sqlalchemy flask-login
+(auth) C:\folder_name> mkdir project
+(auth) C:\folder_name> cd project
+
+for *.py files
+(auth) C:\folder_name\project> type nul > __init__.py
+(auth) C:\folder_name\project> type nul > main.py
+(auth) C:\folder_name\project> type nul > auth.py
+(auth) C:\folder_name\project> type nul > models.py
+
+(auth) C:\folder_name\project> mkdir templates
+(auth) C:\folder_name\project> cd templates
+
+for *.html files
+(auth) C:\folder_name\project\templates> type nul > base.html
+(auth) C:\folder_name\project\templates> type nul > index.html
+(auth) C:\folder_name\project\templates> type nul > login.html
+(auth) C:\folder_name\project\templates> type nul > profile.html
+(auth) C:\folder_name\project\templates> type nul > signup.html
 
 ```
 
