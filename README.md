@@ -10,13 +10,13 @@ cd folder_name
 python -m venv auth
 cd auth\Scripts
 activate
+(auth) C:\folder_name> pip install flask flask-sqlalchemy flask-login
+(auth) C:\folder_name> mkdir project
+(auth) C:\folder_name> cd project
 
 You have all files in this repo So you don't need to run following example commands 
 These are only for demonstration purposes 
 How to create an empty file with desired extension in windows
-(auth) C:\folder_name> pip install flask flask-sqlalchemy flask-login
-(auth) C:\folder_name> mkdir project
-(auth) C:\folder_name> cd project
 
 for *.py files
 (auth) C:\folder_name\project> type nul > __init__.py
@@ -40,6 +40,7 @@ then return back to folder_name
 before you run flask don't forget to set FLASK_APP and FLASK_DEBUG
 (auth) C:\folder_name> set FLASK_APP=project
 (auth) C:\folder_name> set FLASK_DEBUG=1
+(auth) C:\folder_name> flask run
 ```
 
 - [Unix] - For Unix users
@@ -48,18 +49,11 @@ mkdir folder_name
 cd folder_name
 python -m venv auth
 auth/bin/activate
-```
-
-## Before you run flask don't forget to set 
-```sh
-for windows users
-set FLASK_APP = project
-set FLASK_DEBUG = 1
-
-for unix users
 export FLASK_APP = project
 export FLASK_DEBUG = 1
+flask run
 ```
+
 
 ## Flask run 
 ```sh
