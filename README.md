@@ -23,12 +23,12 @@ How to create an empty file with desired extension in windows
 (auth) C:\Users\your_name\Desktop\folder_name\project> type nul > models.py
 (auth) C:\Users\your_name\Desktop\folder_name> mkdir templates
 (auth) C:\Users\your_name\Desktop\folder_name> cd templates
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > base.html
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > index.html
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > login.html
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > profile.html
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > login.html
-(auth) C:\Users\your_name\Desktop\folder_name\templates> type nul > signup.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > base.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > index.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > login.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > profile.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > login.html
+(auth) C:\Users\your_name\Desktop\folder_name\project\templates> type nul > signup.html
 
 ```
 
