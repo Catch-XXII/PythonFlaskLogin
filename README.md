@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/cgultekink/af207498-2d2c-48df-a062-54df34e8a2b3/20d01e07-adf2-4137-a9a1-cbcc276add1f/_apis/work/boardbadge/94f190f2-469c-4df3-82f8-5aa1e7477ab0)](https://dev.azure.com/cgultekink/af207498-2d2c-48df-a062-54df34e8a2b3/_boards/board/t/20d01e07-adf2-4137-a9a1-cbcc276add1f/Microsoft.RequirementCategory)
 # PythonFlaskLogin
 
 ## _Flask-Login library with Flask-SQLAlchemy using werkzeug.security password hashing_
